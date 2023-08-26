@@ -20,8 +20,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 ![Video Walkthrough](http://i.imgur.com/th5gIfJ.gif)
 
-<img src='http://i.imgur.com/th5gIfJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [Kap](https://getkap.co/)
 
 ## App Brainstorming (Step 4)
