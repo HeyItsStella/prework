@@ -20,6 +20,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img href="https://imgur.com/VLNbmxD" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/VLNbmxD" data-context="false" ><a href="//imgur.com/a/VLNbmxD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [Kap](https://getkap.co/)
 
