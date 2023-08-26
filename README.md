@@ -19,8 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/zE88HHl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://i.imgur.com/JL1snRo.gif)
+<img href="https://imgur.com/VLNbmxD" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/)
 
