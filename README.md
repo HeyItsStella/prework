@@ -2,7 +2,6 @@
 # Prework - Unknown
 
 Submitted by: Stella Chen
-....(I might've used a different name in the application by mistake because of auto populate )
 
 Unknown is an app that... [TODO] 
 
